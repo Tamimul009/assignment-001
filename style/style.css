@@ -199,3 +199,21 @@ padding: 30px 40px 80px 30px;
   width: 100%;
   margin: 24px 100px;
 }
+/* end of s3 */
+/* start of s4 */
+.s4{
+  padding: 24px;
+  background-color: #ffffff;
+  margin: 20px 100px 0px 100px;
+  border-radius: 8px;
+}
+.s4-p1{
+  opacity: 70%;
+  font-weight: 400;
+  font-size: 16px;
+}
+.s4-p2{
+  font-weight: 600;
+  font-size: 20px;
+  
+}
