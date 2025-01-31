@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font family */
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  /* end of font family */
+body{
+  background-color: #F1F1F3;
+}
+
+  .btn-primary{
+    font-size: 18px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+   margin: 20px 100px 100px 20px; 
+   margin-left: 0%;
+    
+}
+
+.header-1{
+ padding-bottom: 0%;
+ margin: 0%;
+ width:auto;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.btn-color{
+    color: rgba(0, 106, 80, 1);
+}
+.btn-color-2{
+  padding: 17px 24px 24px 0px;
+}
+.ht{
+ font-size: 32px;
+ padding: 25px 820px 120px 0px;
+
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 24px;
+    padding: 50px 300px 30px 50px;
+    border: 100px; 
+    margin: 100px;
+}
+.bg-color{
+    background-color: #C6E4D6;
+}
+.bg-title{
+    font-size: 24px;
+    opacity: 50%;
+}
+.header-description{
+    font-size: 56px;
+    width: 50%;
+    font-weight: 600;
+}
+
+.banner-img{  
+padding: 30px 40px 80px 30px;
+}
+.btn-bg{
+  background-color: #006A50;
+}
+.span-color{
+  color: cornsilk;
+}
+.s2{
+  margin-left: 100px;
+ margin-right: 100px;
+}
+.s2-banner{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.s2-title{
+ padding: 24px;
+ background-color: white;
+ border-radius: 16px;
+ margin: 20px;
+ margin-left: 0%;
+
+}
+.card-icon{
+  margin: 24px;
+  margin-left: 0;
+}
+.s2-sub-title{
+  font-weight: 700;
+  font-size: 20px;
+}
+.s2-description{
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 70%;
+  padding: 24px 24px 0px 24px;
+  padding-left: 0px;
+  width: 65%;
+}
+.s2-bannerp{
+  font-weight: 700;
+  font-size: 40px;
+  width: 100%;
+  margin-left: 20px;
+}
+/* end of s2 */
+/* start of s3 */
+.s3-title{
+  display: flex;
+  gap: 30px;
+  justify-content: space-evenly;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.btn-s3-l{
+  padding: 11px 20px 11px 20px;
+  border-radius: 8px;
+  margin: 20px 100px 30px 0px;
+  color: #F1F1F3;
+  border: none;
+}
+.btn-s3-l1{
+  background-color: #5490F5;
+  margin-top: 30px;
+}
+.btn-s3-l2{
+  background-color: #09A15C;
+  margin-top: 30px;
+}
+.btn-s3-l3{
+  background-color: #FFC239;
+  margin-top: 30px;
+}
+.s3-sub-title{
+  border-radius: 16px;
+  padding: 32px;
+  gap: 24px;
+}
+.s3-img{
+  margin-bottom: 20px;
+}
+.s3st1{
+  background-color: rgba(84, 144, 245, 0.2);
+  width: 100%;
+
+}
+.s3st2{
+  background-color: rgba(9, 161, 92, 0.2);
+  width: 100%;
+}
+.s3st3{
+  background-color: rgba(255, 194, 57, 0.2);
+  width: 100%;
+}
+.s3-sub-titleb{
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.s3-sub-titled{
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 0.7;
+}
+.s3p2{
+  font-size: 16px;
+  opacity: 70%;
+  margin: 30px 100px;
+}
+.s3p1{
+  font-weight: 700;
+  font-size: 40px;
+  width: 100%;
+  margin: 24px 100px;
+}
