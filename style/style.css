@@ -227,7 +227,7 @@ padding: 30px 40px 80px 30px;
 .s5{
   font-weight: 600;
   font-size: 40px;
-  margin: 50px 80px;
+  margin: 40px 100px;
 }
 /* end of s5 */
 /* start of s6 */
@@ -235,6 +235,7 @@ padding: 30px 40px 80px 30px;
   border-radius: 16px;
   background-color: #ffffff;
   padding: 32px;
+  margin:0px 100px ;
 }
 .s6p1{
   display: flex;
@@ -257,4 +258,51 @@ padding: 30px 40px 80px 30px;
   width: max-content;
   background-color: rgba(198, 228, 214, 1);
   border-radius: 4px;
+}
+/* start of s7 */
+.s7{
+  display: flex;
+  width: fit-content;
+  gap: 30px;
+  padding: 48px;
+  margin: 32px 100px 32px 100px;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+.s7-p1-img{
+  border-radius: 24px;
+}
+.s7-p2{
+padding: 0px 48px 48px 0px;
+}
+.s7-p2-title{
+  font-size: 32px;
+  font-weight: 700;
+  width: 100%;
+}
+.time-date{
+  display: flex;
+  gap: 20px;
+}
+.time-date p{
+  padding:10px 10px 10px 0px;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 70%;
+}
+.s7-p2-subtitle{
+  padding: 12px 500px 0px 0px;
+}
+.s7-p2-description{
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px 40px 25px 0px;
+  width: 70%;
+  opacity: 70%;
+}
+.btn-s2{
+  padding: 13px 26px;
+  border-radius: 8px;
+  background-color: #006A50;
+  border: none;
 }
